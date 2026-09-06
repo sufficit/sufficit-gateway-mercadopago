@@ -1,3 +1,5 @@
 bin/
 obj/
 src/.vs/
+# Worktrees (padrao): arvores de trabalho em <repo>/.worktrees/
+**/.worktrees/
